@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dmigit
-- 👀 I love technology and how startups can use it to maek the world a better place
+- 👀 I love technology and how startups can use it to make the world a better place
 - 🌱 I’m currently learning Javascript and Solidity!
 - 💞️ I want to collaborate with a dApp developer!
 - 📫 How to reach me: Twitter: @dxlantxch   Discord: Dxlan#2206  email: @dylanmolinabusiness@gmail.com
