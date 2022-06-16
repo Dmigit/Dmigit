@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dylan!
 - 👀 I love technology and how startups can leverage it to make the world a better place
-- 🌱 I’m currently learning Javascript and Solidity!
+- 🌱 I’m currently learning React and Solidity!
 - 💞️ I want to collaborate with another dApp developer!
 - 📫 How to reach me: Twitter: @dxlantxch   Discord: Dxlan#2206  email: @dylanmolinabusiness@gmail.com
 
