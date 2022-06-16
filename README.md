@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dmigit
-- 👀 I love technology and how startups can use it to make the world a better place
+- 👋 Hi, I’m Dylan!
+- 👀 I love technology and how startups can leverage it to make the world a better place
 - 🌱 I’m currently learning Javascript and Solidity!
-- 💞️ I want to collaborate with a dApp developer!
+- 💞️ I want to collaborate with another dApp developer!
 - 📫 How to reach me: Twitter: @dxlantxch   Discord: Dxlan#2206  email: @dylanmolinabusiness@gmail.com
 
 <!---
